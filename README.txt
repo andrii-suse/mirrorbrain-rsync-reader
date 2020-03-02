@@ -1,1 +1,1 @@
-Just stripped out from mirrorbrain/scanner.pl rsync reader code for tests.
+Just stripped out from mirrorbrain/tools/scanner.pl rsync reader code for tests.
